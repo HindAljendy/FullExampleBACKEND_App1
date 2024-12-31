@@ -8,6 +8,6 @@
 </p>
 
 ## Postman Documentation :
-<a href="https://documenter.getpostman.com/view/34716279/2sAYJ7fyva">
+<a href="https://documenter.getpostman.com/view/34716279/2sAYJ7fyva">Documentation</a>
 
 
